@@ -4,7 +4,7 @@
 
 * Nombre y Apellido: Edison Cristian Vivar
 * Materia: Desarrollo de Sistemas Web (Frontend)
-* Comisión: 2 D
+* Comisión: D
 
 ---
 
@@ -22,7 +22,7 @@ La temática elegida fue **Race Telemetry**, una aplicación orientada a fanáti
 
 **Landing principal (portada):**
 
-[AGREGAR LINK DE VERCEL]
+(https://racetelemetry.vercel.app/)
 
 Desde esta portada se puede acceder a:
 
@@ -99,8 +99,6 @@ https://cursor.com/es/docs/models/cursor-composer-2-5
 
 Ambos agentes recibieron exactamente el mismo prompt y generaron sus soluciones sin modificaciones manuales posteriores.
 
-Para asegurar una comparación homogénea, el prompt incluyó requisitos técnicos que orientaron la implementación hacia tecnologías web estándar (HTML, CSS y JavaScript), evitando el uso de frameworks frontend.
-
 Como resultado, tanto OpenCode como Cursor desarrollaron landing pages estáticas que cumplieron con los requisitos funcionales establecidos para la aplicación Race Telemetry.
 
 Las diferencias observadas se manifestaron principalmente en aspectos relacionados con el diseño visual, la organización de los componentes, la distribución de las secciones y la forma en que cada agente interpretó la identidad de la aplicación. Aunque ambos respetaron la temática de la Fórmula 1 y las secciones solicitadas, cada uno propuso soluciones visuales distintas para comunicar la misma idea.
@@ -110,3 +108,4 @@ Ambas implementaciones incluyeron correctamente el header, hero section, secció
 La experiencia permitió observar que, incluso utilizando el mismo prompt y tecnologías similares, distintos agentes pueden producir resultados diferentes debido a sus propios criterios de diseño, organización del contenido y generación de interfaces.
 
 ---
+
